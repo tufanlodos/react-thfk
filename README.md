@@ -1,4 +1,5 @@
-# Assessment
+# Sample React App
+An example React app for doing API calls with pagination, filter, list and detail views.
 
 ## Available Scripts
 
