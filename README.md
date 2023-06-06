@@ -1,9 +1,9 @@
 # Sample React App
-An example React app for doing API calls with pagination, filter, list and detail views.
+An example bare React app (create-react-app) for doing API calls with pagination, filter, list and detail views.
 
 ## Available Scripts
 
-In the project directory, you can run:
+After you cloned the project, run `npm install` to install dependencies. After that, in the project root directory, you can run:
 
 ### `npm start`
 
